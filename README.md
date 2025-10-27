@@ -98,7 +98,7 @@ e4 $1 $2 e5
 ## Notes
 
 * The tool is console-based and intended for batch merging of PGN move lines (with variations).
-* It preserves variations and now also preserves and merges comments and NAGs.
+* It preserves variations and also preserves and merges comments and NAGs.
 
 ## Upcoming
 
